@@ -10,14 +10,6 @@
     background-color: red;
 }
 
-.green {
-    background-color: darkgreen;
-}
-
-.gray {
-    background-color: gray;
-}
-
 .row, .row > div {
     margin-bottom: 1vh;
 }
