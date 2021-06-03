@@ -4,24 +4,10 @@ nav {
 }
 
 section#intro {
-    margin: 0 20vh;
     padding: 5vh 2vh;
     background-color: #ddd;
-    width:70%;
-    height: 40vh;
     display: flex;
     justify-content:space-between;
-}
-
-section#lyrics {
-    display: flex;
-    justify-content: space-between;
-    margin: 2vh 20vh;
-}
-
-section#lyrics > div {
-    padding: 1vh;
-    width: 40vh;
 }
 
 h2, h4 {
